@@ -1,0 +1,31 @@
+#p1{
+	border:10px;
+	border:10px solid #DC0CD9;
+	background-color: #F0C88C;
+	width:650px; 
+	height:150px ;
+	position: center;
+
+
+}
+#p2{
+
+	width:500px;
+	height:50px;
+	border-radius:5px;
+	border:2px dashed  #37B23B;
+	background-color:#F3FAF3; 
+	text-align:center;
+	position: center;
+	margin-left: 80px;
+	margin-top: 40px;
+
+
+
+}
+p{
+	Aling:center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+	
+}
